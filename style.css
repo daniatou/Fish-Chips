@@ -26,6 +26,9 @@ header {
     border-bottom: 3px solid #2f9696;
     text-align: center;
     padding-bottom: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 4;
 }
 
 header ul li {
@@ -160,7 +163,7 @@ footer {
 
 footer img {
     width: 60px;
-    margin: 30px auto 20px auto; 
+    margin: 30px auto 20px auto;
 
 }
 
