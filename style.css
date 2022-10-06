@@ -167,8 +167,9 @@ footer img {
 
 }
 
-a {
+footer a {
     text-decoration: none;
     color: blue;
     padding-bottom: 20px;
 }
+
